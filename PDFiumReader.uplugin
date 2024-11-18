@@ -1,0 +1,24 @@
+﻿{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "PDFium Reader",
+    "Description": "PDF viewing capabilities using PDFium",
+    "Category": "Other",
+    "CreatedBy": "Your Name",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "PDFiumReader",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
