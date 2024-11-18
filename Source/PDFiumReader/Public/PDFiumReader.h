@@ -1,8 +1,16 @@
-﻿#pragma once
+﻿// Public/PDFiumReader.h
+#pragma once
 
 #include "Modules/ModuleManager.h"
 
-class FPDFiumReaderModule : public IModuleInterface
+// 모듈 매크로 추가
+#if WITH_EDITOR
+#define PDFIUMREADER_API DLLEXPORT
+#else
+#define PDFIUMREADER_API DLLIMPORT
+#endif
+
+class PDFIUMREADER_API FPDFiumReaderModule : public IModuleInterface
 {
 public:
     virtual void StartupModule() override;

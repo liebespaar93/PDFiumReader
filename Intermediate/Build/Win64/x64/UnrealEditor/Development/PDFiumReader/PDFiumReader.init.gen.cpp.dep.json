@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kyoulee\\documents\\github\\vrguild\\vrguild\\plugins\\pdfiumreader\\intermediate\\build\\win64\\unrealeditor\\inc\\pdfiumreader\\uht\\pdfiumreader.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kyoulee\\documents\\github\\vrguild\\vrguild\\intermediate\\build\\win64\\x64\\vrguildeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kyoulee\\documents\\github\\vrguild\\vrguild\\plugins\\pdfiumreader\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pdfiumreader\\definitions.pdfiumreader.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
